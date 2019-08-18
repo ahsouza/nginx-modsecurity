@@ -1,0 +1,3 @@
+.docker/app/api/node_modules/
+.docker/app/api/vendor/
+.docker/app/api/package-lock.json
