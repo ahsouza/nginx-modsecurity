@@ -1,4 +1,4 @@
-**Protegendo Contêineres Docker com Web Application Firewall (WAF) baseado em ModSecurity e NGINX
+**Protegendo Contêineres Docker com Web Application Firewall (WAF) baseado em ModSecurity e NGINX**
 
 ![alt text](https://techcrunch.com/wp-content/uploads/2016/08/r10-blog-modsecurity-ddos.jpg?w=730&crop=1)
 
