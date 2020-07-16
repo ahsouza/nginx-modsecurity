@@ -2,6 +2,7 @@
 
 ![alt text](https://techcrunch.com/wp-content/uploads/2016/08/r10-blog-modsecurity-ddos.jpg?w=730&crop=1)
 
+:shield: :lock:  Implementing reverse proxy with NGINX and web aplication firewall (WAF). OWASP ModSecurity Core Rule Set for better web application security using API developed in Laravel PHP  containerized with Docker :whale:
 
   Geralmente os contêineres são considerados mais seguros por padrão que as máquinas virtuais porquê reduzem substancialmente a superfície de ataque a um determinado aplicativo e sua infra-estrutura de suporte. Isso não implica, entretanto, que não se deva ficar atento a contêineres seguros. Além de seguir práticas seguras para reduzir riscos de segurança com contêineres, aqueles que os utilizam também devem usar a segurança de borda para proteger os contêineres também. A maioria dos aplicativos que estão sendo implantados em contêineres está de alguma forma conectada à Internet com portas expostas e assim por diante.
 
